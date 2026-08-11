@@ -1,6 +1,6 @@
 # Kanchukommala Naveen
 
-### Data Science & AI Engineer | Machine Learning · Generative AI · Intelligent Systems
+### Data Science & AI Graduate | Machine Learning · Generative AI · Intelligent Systems
 
 I build end-to-end AI and data-driven systems that combine **machine learning, generative AI, analytical reasoning, and backend engineering** to solve practical problems.
 
